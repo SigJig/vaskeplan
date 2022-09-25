@@ -11,7 +11,6 @@ tasks = [
 ]
 
 people = ['sigmund', 'tora', 'bendik', 'emilie', 'magnus']
-offset = 0
 
 def main(**kwargs):
     wstart = kwargs.pop('week_start', 0)
